@@ -1,0 +1,11 @@
+backports.tarfile==1.2.0
+cron-descriptor==1.4.5
+dlt==1.11.0
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+jinja2==3.1.6
+pipdeptree==2.9.6
+platformdirs==4.2.2
+tomli==2.0.1
+typer==0.15.4
+wheel==0.45.1
